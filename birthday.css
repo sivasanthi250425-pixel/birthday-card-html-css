@@ -1,0 +1,101 @@
+.profile{
+    width: 300px;
+    height: 250px;
+    border-radius: 90px;
+    text-align: center;
+    border-color: pink;
+    border: 6px solid pink;
+   
+}
+
+
+body{
+    text-align: center;
+    font-family: happy monkey;
+    background: linear-gradient(aqua,pink,purple,plum,aqua,pink,purple,plum,aqua,pink,purple,plum);
+    color: white;
+    text-shadow: 1px 1px 1px black;
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gift{
+     width: 600px;
+    height: 450px;
+    border-radius: 10px;
+    background-image: url("gift.webp");
+    border-color: azure;
+    background-size: cover;
+}
+.years{
+padding: 4px 8px;
+border-radius: 5px;
+text-align: center;
+  background-color: pink;
+}
+.date{
+padding: 4px 8px;
+border-radius: 5px;
+text-align: center;
+  background-color: pink;
+}
+.giftsection{
+    margin-top: 50px;
+}
+.gift:hover{
+    background-image: url("happyfi.webp");
+    background-size: cover;
+}
+.gift2{
+     width: 600px;
+    height: 450px;
+    border-radius: 10px;
+    background-image: url("gift.webp");
+    border-color: azure;
+    background-size: cover;
+}
+.gift2:hover{
+    background-image: url("beauty.webp");
+    background-size: cover;
+}
+.gift3{
+      width: 600px;
+    height: 450px;
+    border-radius: 10px;
+    background-image: url("gift.webp");
+    border-color: azure;
+    background-size: cover;
+}
+.gift3:hover{
+    background-image: url("describelovewebp.webp");
+    background-size: cover;
+}
+.gift4{
+     width: 600px;
+    height: 450px;
+    border-radius: 10px;
+    background-image: url("gift.webp");
+    border-color: azure;
+    background-size: cover;
+}
+.gift4:hover{
+    background-image: url("badass.webp");
+    background-size: cover;
+}
+.gift5{
+     width: 600px;
+    height: 450px;
+    border-radius: 10px;
+    background-image: url("gift.webp");
+    border-color: azure;
+    background-size: cover;
+}
+.gift5:hover{
+    background-image: url("fiwebp.webp");
+    background-size: cover;
+    backface-visibility: visible;
+    
+}
+.link{
+    color: white;
+}
